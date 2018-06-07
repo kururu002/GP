@@ -299,6 +299,7 @@
   <ItemGroup>
     <Compile Include="Assets\_Scripts\AutoFocus.cs" />
     <Compile Include="Assets\_Scripts\ElementUI.cs" />
+    <Compile Include="Assets\_Scripts\FindBinding.cs" />
     <Compile Include="Assets\_Scripts\MenuUI.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" />
